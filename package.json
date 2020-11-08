@@ -21,17 +21,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "types": {
-        "feat": {
-          "description": "A new feature",
-          "title": "Features"
-        },
-        "fix": {
-          "description": "A bug fix",
-          "title": "Bug fixes"
-        }
-      }
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
