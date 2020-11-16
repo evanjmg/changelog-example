@@ -1,0 +1,4 @@
+{
+  "commitUrlFormat": "https://bitbucket.org/YOUR_COMPANY//commits/",
+  "issueUrlFormat": "https://jira.atlassian.net/browse/"
+}
